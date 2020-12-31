@@ -9,3 +9,6 @@ time_tracking_app/tests_output/
 time_tracking_app/npm-debug.log.*
 
 advanced-components/components-cookbook/node_modules/
+
+p4-forms/node_modules/
+
